@@ -1,5 +1,7 @@
 /* --------------------
-fonts style
+************************
+      fonts style
+************************      
 ----------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,700;1,400&family=Roboto+Mono:ital,wght@0,500;1,400&display=swap');
 
@@ -11,8 +13,10 @@ body {
     overflow-x: hidden;
 }
 
-/* ****************************
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\
+ ****************************
      header section start 
+/////////////////////////////     
 ******************************* */
 
 /*--------------------
@@ -76,8 +80,6 @@ main {
 
 .player-title {
     width: 50%;
-
-
 }
 
 .player-title h1 {
@@ -93,7 +95,6 @@ main {
 .player-img {
     width: 50%;
 }
-
 
 .player-img img {
     width: 80%;
@@ -115,7 +116,7 @@ main {
  *************************
 ------------------------*/
 
-/******* Now*********
+/*******Now*********
 mod-section start */
 .mod-section {
     display: flex;
@@ -342,8 +343,6 @@ hr {
         width: 100%;
     }
 
-
-
     .all-box {
         display: block;
     }
@@ -355,7 +354,6 @@ hr {
 
     .mod-section ul {
         display: flex;
-
     }
 
     .evry-match {
@@ -363,7 +361,6 @@ hr {
         grid-gap: 20px;
         width: 90%;
         margin-left: 60px;
-
     }
 
     .btn-container {
